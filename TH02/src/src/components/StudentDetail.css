@@ -1,0 +1,23 @@
+.student-detail-container {
+  padding: 20px;
+}
+
+.student-detail {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.detail-item {
+  margin: 10px 0;
+  padding: 5px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.error-message {
+  color: red;
+}
