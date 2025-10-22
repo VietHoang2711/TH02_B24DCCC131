@@ -3,6 +3,7 @@ import Weather from './src/components/Weather';
 import StudentList from './src/components/StudentList';
 import StudentDetail from './src/components/StudentDetail';
 import News from './src/components/News';
+import './App.css';
 
 function App() {
   return (
